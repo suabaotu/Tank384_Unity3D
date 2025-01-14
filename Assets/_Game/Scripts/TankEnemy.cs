@@ -2,7 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TankBase : MonoBehaviour
+public class TankEnemy : TankBase
 {
-    
+
+    void Update()
+    {
+        
+    }
 }
